@@ -1,0 +1,22 @@
+{
+  "name": "peerserver",
+  "version": "1.0.0",
+  "description": "This is a peer server which is going to be serving the imperiumline application on calls",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alainpaulinn/peerserver.git"
+  },
+  "author": "Alain Paulin Niyonkuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alainpaulinn/peerserver/issues"
+  },
+  "homepage": "https://github.com/alainpaulinn/peerserver#readme",
+  "dependencies": {
+    "peer": "^0.6.1"
+  }
+}
